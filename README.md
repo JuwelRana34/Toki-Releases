@@ -5,7 +5,7 @@ Official Android APK Releases for Toki — Smart Study Focus Lock &amp; Distract
 
 Welcome to the official public release repository for **Toki (টোকি)** — an Android study focus lock, distraction-free YouTube & Facebook class companion, and smart contact reminder built for students.
 
-> **📥 \[suspicious link removed\]**
+> **📥 [Go To Here](https://github.com/JuwelRana34/Toki-Releases/releases/latest)**
 
 ### 🌟 Key Features
 - **🎓 Distraction-Free Study YouTube:** Watch your allowed educational channels and daily class videos without Shorts, Home Feed, or recommended video distractions.
@@ -15,7 +15,7 @@ Welcome to the official public release repository for **Toki (টোকি)** �
 - **📞 Smart Networking & Contact Reminder:** Stay connected with family and mentors with automatic 7:00 PM reminders on due dates.
 
 ### 📲 How to Install (কিভাবে ইনস্টল করবেন)
-1. Go to the **\[suspicious link removed\]** page and download the `.apk` file under **Assets** (for most modern phones, download `app-arm64-v8a-release.apk` or the universal `.apk`).
+1. Go to the **[Download](https://github.com/JuwelRana34/Toki-Releases/releases/latest)** page and download the `.apk` file under **Assets** (for most modern phones, download `app-arm64-v8a-release.apk` or the universal `.apk`).
 2. Open the downloaded APK file on your phone.
 3. If Android / Google Play Protect shows an *"Unrecognized app"* or *"File might be harmful"* prompt (this appears for all apps distributed outside the Google Play Store), tap **More details** -> **Install anyway**.
 4. Open **Toki**, sign in with your Google Account, and enable the required permissions when prompted.
